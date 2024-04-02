@@ -5,5 +5,8 @@ This is a demo for Git &amp; GitHub class.
 shradha khapra.
 
 # Student
-mayur maske.
+mayur maske. 
+
+# name
+mayur
 
